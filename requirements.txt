@@ -1,0 +1,9 @@
+matplotlib
+numpy
+pandas
+seaborn
+PyPDF2
+requests
+ipywidgets
+notebook
+jupyter
